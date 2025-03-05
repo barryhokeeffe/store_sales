@@ -169,3 +169,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Datasets for store-sales: too large for github, downloaded + stored locally from https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data
+datasets/
